@@ -98,7 +98,9 @@ happiest birthday, my favorite person! my forever kakampi, bawal kana mawala sa 
         title: "From Ysekheil",
         message: `Feel ko nasabi ko na lahat yet at the same time, hindi pa. Happy birthday, my angel. Thank you for being here, with me, with us. I hope you know how much I appreciate you. How much I adore you.
 
-And how much I cherish you because I do not think words are enough to convey them all.`
+And how much I cherish you because I do not think words are enough to convey them all. You are just so easy to love. Knowing you more does not make me love you less, if anything, it's making me love you more.
+
+I love you. Nasa sendthesong iyong ibang messages ko. Happy birthday, princess. Kiss.`
     }
 };
 
